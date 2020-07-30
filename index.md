@@ -2,8 +2,8 @@
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: k1898666@kcl.ac.uk
+  text: k1898666@kcl.ac.uk
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
