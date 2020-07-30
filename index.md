@@ -107,20 +107,21 @@ _Research Assistant_<br>
 -Outstanding graduates of Ocean University of China 2018<br>
 -Class I academic Scholarship, Ocean university of China (2/40) 2018 <br>                                            
  
-
+ 
+## Training Experiences
+-	Online Python course by Data camp 2019.04-2019.10
+	One-day Immunology Course by Professor Abul Abbas, King’s college London 2019.04
+	One-day Flow cytometry training course, King’s college London, 2019.05 
+	One-day training course on FACS data analysis by FlowJo, 2019.06
+	One-week animal experimentation course, King’s college London, 2019.01
+	PhD fellowship summer workshop, City University of Hong Kong, 4th July-12th July 2017
+	Coursera course “Introduction to Genomic Technologies” by John Hopkins University, 1st March-1st April
 ---
 
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 
-## Service
 
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
+
 
 <!-- ### Footer
 
