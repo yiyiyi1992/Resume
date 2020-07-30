@@ -1,12 +1,10 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Yi Yang
 email:
   url: k1898666@kcl.ac.uk
   text: k1898666@kcl.ac.uk
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+
 ---
 
 # Wode **Ni**
