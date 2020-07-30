@@ -7,7 +7,7 @@ email:
 
 ---
 
-# Wode **Ni**
+# Yang Yi
 
 <!--
 include contact information from the front matter
