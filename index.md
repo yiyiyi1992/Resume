@@ -26,11 +26,10 @@ London, UK
 ```
 Tsingtao, China
 ```
+_ M.E. in Pharmaceutical Engineering, major GPA (89/100)
+_ Co-advised by [Guangli Yu](https://www.researchgate.net/profile/Guangli_Yu) and [Hao Jiang](https://www.researchgate.net/profile/Hao_Jiang48?)
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **Dickinson Coll** `2013.9 - 2016.5`
 
 ```
 Carlisle, PA
