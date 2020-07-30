@@ -26,8 +26,8 @@ London, UK
 ```
 Tsingtao, China
 ```
-_ M.E. in Pharmaceutical Engineering, major GPA (89/100) <br>
-_ Co-advised by [Guangli Yu](https://www.researchgate.net/profile/Guangli_Yu) and [Hao Jiang](https://www.researchgate.net/profile/Hao_Jiang48?) <br>
+- M.E. in Pharmaceutical Engineering, major GPA (89/100) <br>
+- Co-advised by [Guangli Yu](https://www.researchgate.net/profile/Guangli_Yu) and [Hao Jiang](https://www.researchgate.net/profile/Hao_Jiang48?) <br>
 
 ### [**Nanjing University of Chinese Medicine**](https://english.njucm.edu.cn) `2011.9 - 2015.7`
 
@@ -35,7 +35,7 @@ _ Co-advised by [Guangli Yu](https://www.researchgate.net/profile/Guangli_Yu) an
 Nanjing, China
 ```
 
-_ B.S. in Chinese medicine, major GPA (84/100)
+- B.S. in Chinese medicine, major GPA (84/100)
 
 
 ## Publications
