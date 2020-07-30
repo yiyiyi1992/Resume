@@ -12,19 +12,19 @@ email:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **King's college London** `2018.10 - 2020. 04`
 
 ```
-Pittsburgh, PA
+London, UK
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Ph.D. in immunology
+- Co-advised by [Taams Leonie] and [Tim Tree]
 
-### **Columbia University** `2016.9 - 2018.5`
+### [**Ocean University of China**](http://eweb.ouc.edu.cn/weneralwnformation/list.htm) `2015.9 - 2018.`
 
 ```
-New York, NY
+Tsingtao, China
 ```
 
 - B.S. in Computer Science, _Magna Cum Laude_
