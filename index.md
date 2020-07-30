@@ -19,7 +19,7 @@ London, UK
 ```
 
 - Ph.D. in immunology
-- Co-advised by [Taams Leonie] and [Tim Tree]
+- Co-advised by Taams Leonie and Tim Tree
 
 ### [**Ocean University of China**](http://eweb.ouc.edu.cn/weneralwnformation/list.htm) `2015.9 - 2018.`
 
@@ -40,13 +40,10 @@ _ B.S. in Chinese medicine, major GPA (84/100)
 
 ## Publications
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20), to appear._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+### [**A β-glucan from Durvillaea Antarctica Has Immunomodulatory Effects on RAW264. 7 Macrophages via Toll-like Receptor 4**](https://www.sciencedirect.com/science/article/abs/pii/S0144861718302753)
+_	Yang, Y., Zhao, X., Li, J., Jiang, H., Shan, X., Wang, Y., Ma, W., Hao, J. and Yu, G. .<br> 
+_ *Carbohydrate Polymers*, to appear._<br>
+
 
 ### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
 
