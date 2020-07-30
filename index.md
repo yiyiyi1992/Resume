@@ -41,17 +41,14 @@ Nanjing, China
 ## Publications
 
 ### [**A β-glucan from Durvillaea Antarctica Has Immunomodulatory Effects on RAW264. 7 Macrophages via Toll-like Receptor 4**](https://www.sciencedirect.com/science/article/abs/pii/S0144861718302753)
-	Yang, Y., Zhao, X., Li, J., Jiang, H., Shan, X., Wang, Y., Ma, W., Hao, J. and Yu, G.<br> 
+  **Yang, Y**., Zhao, X., Li, J., Jiang, H., Shan, X., Wang, Y., Ma, W., Hao, J. and Yu, G. 
  *Carbohydrate Polymers*, 2018. <br>
 
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+### [**Structure and Immunomodulatory Activity of a Sulfated Agarose with Pyruvate and Xylose Substitutes from Polysiphonia Senticulosa Harvey**](https://www.sciencedirect.com/science/article/abs/pii/S0144861717309414)
+  Zhao, X., Jiao, G., **Yang, Y**., Li, M., Li, Q., Wang, X., Cai, C., Li, G., Hao, J. and Yu, G.<br>
+   *Carbohydrate Polymers*, 2018. <br>
 
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20), to appear._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
 
 ### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
 
