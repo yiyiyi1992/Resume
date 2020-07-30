@@ -93,6 +93,12 @@ _Research Assistant_<br>
 -	Investigated the anti-inflammation effects of Nauclea Officinalis extract on macrophages
 -	Learned experimental design, biology statistics, compound isolation, cell culture techniques and experimental techniques on mice (tail bleeding and retro orbital blood withdrawal); I co-authored in two publications resulted from this work.
 
+## Conferences
+- Yang, Y. (2019). How do Monocytes Respond to IL-2 Stimulation upon coculture with T Regulatory Cells? King’s College London PhD Symposium, 26th Jun, London, UK; [British society for immunology, 2nd-5th Dec, Liverpool, UK](https://www.immunology.org/events/british-society-for-immunology-congress-2019).<br>
+-	Intestinal microorganism group and Clinical Application Symposium, 14th-15th Apr 2016, Shanghai, China. <br>
+-	Yang, Y. and Zhao, X. (2016). The Structural Characterisation of a Polysaccharide from Durvillaea Antarctica. Glycobiology Conference, 15th -17th Aug, Nantong, China.<br>
+-	Yang, Y. and Wang, Y. (2017). A beta-1, 3/1, 6-Glucan from Durvillaea Antarctica Enhanced the Proinflammatory Response of Macrophages. Cold Spring Harbour Asia Conference, 10th Jun, Suzhou, China.<br>
+
 
 ## Mentoring
 
@@ -109,13 +115,13 @@ _Research Assistant_<br>
  
  
 ## Training Experiences
--	Online Python course by Data camp 2019.04-2019.10
-	One-day Immunology Course by Professor Abul Abbas, King’s college London 2019.04
-	One-day Flow cytometry training course, King’s college London, 2019.05 
-	One-day training course on FACS data analysis by FlowJo, 2019.06
-	One-week animal experimentation course, King’s college London, 2019.01
-	PhD fellowship summer workshop, City University of Hong Kong, 4th July-12th July 2017
-	Coursera course “Introduction to Genomic Technologies” by John Hopkins University, 1st March-1st April
+-	Online Python course by Datacamp 2019.04-2019.10
+-	One-day Immunology Course by Professor Abul Abbas, King’s college London 2019.04
+-	One-day Flow cytometry training course, King’s college London, 2019.05 
+-	One-day training course on FACS data analysis by FlowJo, 2019.06
+-	One-week training course for home office animal license, King’s college London, 2019.01
+- Science summer camp for perspective PhD students, City University of Hong Kong, 4th July-12th July 2017.07
+-	Coursera courses on Genomic Technologies by John Hopkins University
 ---
 
 
