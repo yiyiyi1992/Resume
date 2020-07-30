@@ -8,16 +8,7 @@ email:
 ---
 
 # Yang Yi
-
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
-
-{% include cv-contact.html %}
+  Tel: +44 07419842575; Email: k1898666@kcl.ac.uk
 
 ## Education
 
