@@ -2,7 +2,6 @@
 layout: cv
 title: Yi Yang
 email:
-  url: k1898666@kcl.ac.uk
   text: k1898666@kcl.ac.uk
 
 ---
@@ -68,7 +67,7 @@ Nanjing, China
 
 ## Research Experience
 
-### **Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2019.04 - 2020.04`
+### **Taams's Lab, Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2019.04 - 2020.04`
 
 _Ph.D student_<br>
   Research Topic: Investigating the functional consequences and molecular basis of monocyte modulation mediated by T regulatory cells
@@ -79,7 +78,7 @@ _Ph.D student_<br>
 -	Generated histogram and density plots to analyse FACS data using FlowJo
 -	Performed pathway analysis software, DAVID and IPA, to analyse the RNAseq dataset of Treg-mediated monocytes; selected pathways and target genes 
 
-### **Department of Pharmacy & Medicine, Ocean University of China** `2015.9 - 2018.8`
+### **Yu's Lab, Department of Pharmacy & Medicine, Ocean University of China** `2015.9 - 2018.8`
 
 _Master student_<br>
   Postgraduate Thesis Project: Immunomodulatory mechanisms on macrophages of a β-1,3/1,6-d-glucan (BG136) extracted from Durvillaea antarctica
@@ -88,18 +87,18 @@ _Master student_<br>
 -	Studied the anti-tumor effects of BG136 on MCF-7 breast cancer tumor-bearing nude mice; the anti-tumor effects were measured by tumor volume, tumor weight, splenic index and peripheral CD4/CD8 ratio of tumor-bearing mice.
 
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+### **Zhu's Lab, Jiangsu Research Institute for Chinese Medicine** `2014.9 - 2015.6`
 
 _Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
+-	Investigated the anti-inflammation effects of Nauclea Officinalis extract on macrophages
+-	Learned experimental design, biology statistics, compound isolation, cell culture techniques and experimental techniques on mice (tail bleeding and retro orbital blood withdrawal); I co-authored in two publications resulted from this work.
 
 
 ## Mentoring
 
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+  Academic mentor for undergraduates, Ocean university of China, 2016-2017_<br>
+-	Supervised 2 undergraduate students to conduct research experiments and complete the dissertations 
+
 
 ## Honors & Awards
 
