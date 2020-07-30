@@ -47,37 +47,24 @@ Nanjing, China
 
 ### [**Structure and Immunomodulatory Activity of a Sulfated Agarose with Pyruvate and Xylose Substitutes from Polysiphonia Senticulosa Harvey**](https://www.sciencedirect.com/science/article/abs/pii/S0144861717309414)
   Zhao, X., Jiao, G., **Yang, Y**., Li, M., Li, Q., Wang, X., Cai, C., Li, G., Hao, J. and Yu, G.<br>
-   *Carbohydrate Polymers*, 2018. <br>
+   *Carbohydrate Polymers*, 2017. <br>
 
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
+### [**Detection of Animal Tissue Distribution of Beta-1, 3/1, 6-Glucan from Durvillaea Antarctica by In Vivo Imaging**](https://www.researchgate.net/publication/319494095_Detection_of_Animal_Tissue_Distribution_of_b-1316-Glucan_from_Durvillaea_antarctica_by_in_vivo_Imaging)
+  Zhao, X., Liu, X., **Yang, Y**., Cai, C., Lu, Y., Li, G., Hao, J. and Yu, G.<br>
+  *Chemical Journal of Chinese Universities-Chinese*, 2017. <br>
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({ page.homepage.url }}/aassets/plateau-19-presentation.pdf)]
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
+### [**Nauclea Officinalis Inhibits Inflammation in LPS-Mediated RAW 264.7 Macrophages by Suppressing the NF-ΚB Signaling Pathway**](https://www.sciencedirect.com/science/article/abs/pii/S0378874116300198)
+  Zhai XT, Zhang ZY, Jiang CH, Chen JQ, Ye JQ, Jia XB, **Yang Y**., et al.<br>
+ *Journal of Ethnopharmacology*, 2016. <br>
 
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
 
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+### [**Corydalis Bungeana Turcz. Attenuates LPS-induced Inflammatory Responses via the Suppression of NF-κB Signalling Pathway In Vitro and In Vivo**](https://www.sciencedirect.com/science/article/abs/pii/S037887411630722X)
+  Zhai XT, Chen JQ, Jiang CH, Song J, Li DY, Zhang H, Jia XB, Tan W, Wang SX, **Yang Y** and Zhu FX. <br>
+   *Journal of Ethnopharmacology*, 2016. <br>
 
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
 
----
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
 
 ## Experience
 
