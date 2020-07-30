@@ -41,8 +41,8 @@ Nanjing, China
 ## Publications
 
 ### [**A β-glucan from Durvillaea Antarctica Has Immunomodulatory Effects on RAW264. 7 Macrophages via Toll-like Receptor 4**](https://www.sciencedirect.com/science/article/abs/pii/S0144861718302753)
-_	Yang, Y., Zhao, X., Li, J., Jiang, H., Shan, X., Wang, Y., Ma, W., Hao, J. and Yu, G. .<br> 
-_ *Carbohydrate Polymers*, to appear._<br>
+	Yang, Y., Zhao, X., Li, J., Jiang, H., Shan, X., Wang, Y., Ma, W., Hao, J. and Yu, G.<br> 
+ *Carbohydrate Polymers*, 2018. <br>
 
 
 ### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
