@@ -66,26 +66,34 @@ Nanjing, China
 
 
 
-## Experience
+## Research Experience
 
-### **Microsoft Research** `2020.5 -`
+### **Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2019.04 - 2020.04`
 
-_Research Intern_<br>
+_Ph.D student_<br>
+  Research Topic: Investigating the functional consequences and molecular basis of monocyte modulation mediated by T regulatory cells
+-	Designed the experiments to reveal the modulation of Treg mediated-monocyte phenotype by low-dose IL-2 treatment
+-	Performed antibody titration experiments and detected the activity of hr IL-2 with pSTAT5 staining and T cell proliferation assay 
+-	Isolated Tregs through cell sorting and performed co-culture of monocytes with Tregs 
+-	Applied flow cytometry to observe the phenotypic changes and ELISA to detect cytokine production in Treg-mediated monocytes with or without IL-2 stimulation
+-	Generated histogram and density plots to analyse FACS data using FlowJo
+-	Performed pathway analysis software, DAVID and IPA, to analyse the RNAseq dataset of Treg-mediated monocytes; selected pathways and target genes 
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### **Department of Pharmacy & Medicine, Ocean University of China** `2015.9 - 2018.8`
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+_Master student_<br>
+  Postgraduate Thesis Project: Immunomodulatory mechanisms on macrophages of a β-1,3/1,6-d-glucan (BG136) extracted from Durvillaea antarctica
+-	Studied the immunomodulating effects of macrophages by BG136 via measuring the phagocytosis function, ROS and NO release, cytokine production and pathway activation (NF-kB, MAPKs) in macrophages.
+-	Through the mechanistic study, it’s found that (1) BG136 binds to cell surface with FITC-labeled BG136; (2) BG136 binds to TLR4 on macrophages with a strong binding affinity determined by SPR technique; (3) BG136 modulates macrophage activity through TLR4 using siRNA technique.
+-	Studied the anti-tumor effects of BG136 on MCF-7 breast cancer tumor-bearing nude mice; the anti-tumor effects were measured by tumor volume, tumor weight, splenic index and peripheral CD4/CD8 ratio of tumor-bearing mice.
+
 
 ### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
 
 _Research Assistant_<br>
 Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
-### **AsiaInfo** `2015.6 - 2015.8`
 
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
 
 ## Mentoring
 
