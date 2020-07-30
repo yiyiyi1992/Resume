@@ -96,22 +96,17 @@ _Research Assistant_<br>
 
 ## Mentoring
 
-  Academic mentor for undergraduates, Ocean university of China, 2016-2017_<br>
+  Academic mentor for undergraduates, Ocean university of China, 2016-2017 <br>
 -	Supervised 2 undergraduate students to conduct research experiments and complete the dissertations 
 
 
 ## Honors & Awards
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+-Class II Scholarship, Nanjing University of Chinese Medicine 2013
+-Class I Scholarship, Nanjing University of Chinese Medicine 2014
+-Outstanding graduates of Ocean University of China 2018
+-Class I academic Scholarship, Ocean university of China (2/40) 2018                                               
+ 
 
 ---
 
