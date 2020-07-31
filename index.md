@@ -8,7 +8,7 @@ email:
 
 # Yang Yi
   Tel: +44 07419842575; Email: k1898666@kcl.ac.uk
-
+![avatar](C:\Users\Amber\Desktop\Yi.JPG)
 ## Research interests
  In general, my research interests are the following:
 -	Tumor-associated macrophages (TAM) in tumor microenvironment (TME). I’d like to (1) study the modulation of TAM survival, polarization, and recruitment in TME and (2)explore the mechanisms underlying TAM-facilitated metastasis.
