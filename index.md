@@ -128,7 +128,7 @@ _Research Assistant_<br>
 -Class II Scholarship, Nanjing University of Chinese Medicine 2013 <br>
 -Class I Scholarship, Nanjing University of Chinese Medicine 2014<br>
 -Outstanding graduates of Ocean University of China 2018<br>
--Class I academic Scholarship, Ocean university of China (2/40) 2018 <br>                                            
+-Class I academic Scholarship, Ocean university of China (2/40) 2018 <br> 
  
  
 ## Training Experiences
