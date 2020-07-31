@@ -93,15 +93,25 @@ _Research Assistant_<br>
 -	Investigated the anti-inflammation effects of Nauclea Officinalis extract on macrophages
 -	Learned experimental design, biology statistics, compound isolation, cell culture techniques and experimental techniques on mice (tail bleeding and retro orbital blood withdrawal); I co-authored in two publications resulted from this work.
 
+
 ## Conferences
 - Yang, Y. (2019). How do Monocytes Respond to IL-2 Stimulation upon coculture with T Regulatory Cells? King’s College London PhD Symposium, 26th Jun, London, UK; [British society for immunology, 2nd-5th Dec, Liverpool, UK](https://www.immunology.org/events/british-society-for-immunology-congress-2019).<br>
 -	Intestinal microorganism group and Clinical Application Symposium, 14th-15th Apr 2016, Shanghai, China. <br>
 -	Yang, Y. and Zhao, X. (2016). The Structural Characterisation of a Polysaccharide from Durvillaea Antarctica. Glycobiology Conference, 15th -17th Aug, Nantong, China.<br>
--	Yang, Y. and Wang, Y. (2017). A beta-1, 3/1, 6-Glucan from Durvillaea Antarctica Enhanced the Proinflammatory Response of Macrophages. Cold Spring Harbour Asia Conference, 10th Jun, Suzhou, China.<br>
+-	Yang, Y. and Wang, Y. (2017). A beta-1, 3/1, 6-Glucan from Durvillaea Antarctica Enhanced the Proinflammatory Response of Macrophages. [Cold Spring Harbour Asia Conference, 22th-26th Oct, Suzhou, China](https://www.csh-asia.org/?content/796).<br>
+
+## Skills & Techniques
+
+-	*Languages*: Mandarin Chinese (Native); English (Proficient; IELTS-7); Japanese (Elementary)<br>
+-	*Laboratory Techniques*: 
+-	*Chemistry*: NMR Spectroscopy; High-performance Gel-permeation Chromatography
+-	*Biology*: PBMC isolation; Cell sorting; Cell Culture; RT-PCR; Western Blot; Flow Cytometry; Confocal Microscopy; siRNA Transfection; Animal Handling & Testing (for mice & rat)
+-	*Computer Softwares*: Image J, FlowJo (Skilled), Auto CAD, MS Office (Proficient); Photoshop, GraphPad Prism (Skilled); Python, Github
+-	*Bioinformatics*: IPA, DAVID
 
 
 ## Mentoring
-
+  
   Academic mentor for undergraduates, Ocean university of China, 2016-2017 <br>
 -	Supervised 2 undergraduate students to conduct research experiments and complete the dissertations 
 
@@ -123,9 +133,6 @@ _Research Assistant_<br>
 - Science summer camp for perspective PhD students, City University of Hong Kong, 4th July-12th July 2017.07
 -	Coursera courses on Genomic Technologies by John Hopkins University
 ---
-
-
-
 
 
 
