@@ -11,9 +11,9 @@ email:
 
 ## Research interests
  In general, my research interests are the following:
-1.	Tumor-associated macrophages (TAM) in tumor microenvironment (TME). I’d like to (1) study the modulation of TAM survival, polarization, and recruitment in TME and (2)explore the mechanisms underlying TAM-facilitated metastasis.
-2.	The role of T lymphocytes in tumor growth. I’d like to understand(1) the molecular mechanisms responsible for the compromised T cell function in the TME and (2) CD4+ T cell-mediated tumor rejection. 
-3.	Cancer genomics & proteomics. I’d like to use/develop experimental and computational methods to investigate the genomic and proteomic alterations in cancer.
+-	Tumor-associated macrophages (TAM) in tumor microenvironment (TME). I’d like to (1) study the modulation of TAM survival, polarization, and recruitment in TME and (2)explore the mechanisms underlying TAM-facilitated metastasis.
+-	The role of T lymphocytes in tumor growth. I’d like to understand(1) the molecular mechanisms responsible for the compromised T cell function in the TME and (2) CD4+ T cell-mediated tumor rejection. 
+-	Cancer genomics & proteomics. I’d like to use/develop experimental and computational methods to investigate the genomic and proteomic alterations in cancer.
 
 
 ## Education
