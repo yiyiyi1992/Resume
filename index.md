@@ -139,6 +139,8 @@ _Research Assistant_<br>
 -	One-week training course for home office animal license, King’s college London, 2019.01
 - Science summer camp for perspective PhD students, City University of Hong Kong, 4th July-12th July 2017.07
 -	Coursera courses on Genomic Technologies by John Hopkins University
+
+
 ---
 
 
