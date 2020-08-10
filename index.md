@@ -132,7 +132,7 @@ _Research Assistant_<br>
  
  
 ## Training Experiences
--	Online Python course by Datacamp 2019.04-2019.10
+-	Online Python course by Datacamp 2019.04-
 -	One-day Immunology Course by Professor Abul Abbas, King’s college London 2019.04
 -	One-day Flow cytometry training course, King’s college London, 2019.05 
 -	One-day training course on FACS data analysis by FlowJo, 2019.06
