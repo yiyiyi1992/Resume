@@ -24,15 +24,14 @@ email:
 London, UK
 ```
 
-- Ph.D. in immunology <br>
-- Co-advised by Taams Leonie and Tim Tree <br>
+- Research Assistant in immunology <br>
 
 ### [**Ocean University of China**](http://eweb.ouc.edu.cn/weneralwnformation/list.htm) `2015.9 - 2018.`
 
 ```
 Tsingtao, China
 ```
-- M.E. in Pharmaceutical Engineering, major GPA (89/100) <br>
+- M.E. in Pharmaceutical Engineering, major GPA (89/100) (Top 4 <br>
 - Co-advised by [Guangli Yu](https://www.researchgate.net/profile/Guangli_Yu) and [Hao Jiang](https://www.researchgate.net/profile/Hao_Jiang48?) <br>
 
 ### [**Nanjing University of Chinese Medicine**](https://english.njucm.edu.cn) `2011.9 - 2015.7`
@@ -76,7 +75,7 @@ Nanjing, China
 
 ### **Taams's Lab, Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2019.04 - 2020.04`
 
-_Ph.D student_<br>
+_Research assistant_<br>
   Research Topic: Investigating the functional consequences and molecular basis of monocyte modulation mediated by T regulatory cells
 -	Designed the experiments to reveal the modulation of Treg mediated-monocyte phenotype by low-dose IL-2 treatment
 -	Performed antibody titration experiments and detected the activity of hr IL-2 with pSTAT5 staining and T cell proliferation assay 
