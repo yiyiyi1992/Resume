@@ -109,7 +109,7 @@ _Research Assistant_<br>
 
 ## Skills & Techniques
 
--	*Languages*: Mandarin Chinese (Native); English (Proficient; IELTS-7); Japanese (Elementary)<br>
+-	*Languages*: Mandarin Chinese (Native); English (Proficient; IELTS-7.5); Japanese (Elementary)<br>
 -	*Laboratory Techniques*: 
 -	*Chemistry*: NMR Spectroscopy; High-performance Gel-permeation Chromatography
 -	*Biology*: PBMC isolation; Cell sorting; Cell Culture; RT-PCR; Western Blot; Flow Cytometry; Confocal Microscopy; siRNA Transfection; Animal Handling & Testing (for mice & rat)
