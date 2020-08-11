@@ -2,12 +2,12 @@
 layout: cv
 title: Yi Yang
 email:
-  text: k1898666@kcl.ac.uk
+  text: yiyangkcl1992@gmail.com
 
 ---
 
 # Yang Yi
-  Tel: +44 07419842575; Email: k1898666@kcl.ac.uk
+  Tel: +44 07419842575; Email: yiyangkcl1992@gmail.com
 
 ## Research interests
  In general, my research interests are the following:
