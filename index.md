@@ -142,6 +142,11 @@ _Research Assistant_<br>
 
 ---
 
+## References
+Referee1: Prof. Guangli Yu, Dean, Ocean University of China; <br>
+Responsibility: First Supervisor; Email: glyu@ouc.edu.cn<br>
+Referee2: Dr. Hao Jiang, Assistant Professor, Ocean University of China; <br>
+Responsibility: Second Supervisor; Email: haojiang@ouc.edu.cn <br>
 
 
 <!-- ### Footer
