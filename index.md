@@ -26,7 +26,7 @@ London, UK
 
 - Research Assistant in immunology <br>
 
-### [**Ocean University of China**](http://eweb.ouc.edu.cn/weneralwnformation/list.htm) `2015.9 - 2018.`
+### [**Ocean University of China**](http://eweb.ouc.edu.cn/weneralwnformation/list.htm) `2015.9 - 2018.08`
 
 ```
 Tsingtao, China
