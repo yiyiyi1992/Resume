@@ -24,7 +24,7 @@ email:
 London, UK
 ```
 
-- Research Assistant in immunology <br>
+- Ph.D in immunology <br>
 
 ### [**Ocean University of China**](http://eweb.ouc.edu.cn/weneralwnformation/list.htm) `2015.09 - 2018.08`
 
