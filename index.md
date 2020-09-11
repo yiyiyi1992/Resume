@@ -108,7 +108,7 @@ _Research Assistant_<br>
 
 ## Skills & Techniques
 
--	*Languages*: Mandarin Chinese (Native); English (Proficient; IELTS-7.5); Japanese (Elementary)<br>
+-	*Languages*: Mandarin Chinese (Native); English (Proficient; IELTS-7.5,GRE-325); Japanese (Elementary)<br>
 -	*Laboratory Techniques*: 
 -	*Chemistry*: NMR Spectroscopy; High-performance Gel-permeation Chromatography
 -	*Biology*: PBMC isolation; Cell sorting; Cell Culture; RT-PCR; Western Blot; Flow Cytometry; Confocal Microscopy; siRNA Transfection; Animal Handling & Testing (for mice & rat)
@@ -131,7 +131,7 @@ _Research Assistant_<br>
  
  
 ## Training Experiences
--	Online Python course by Datacamp 2019.04-
+-	Online Python courses by Datacamp 2019.04-
 -	One-day Immunology Course by Professor Abul Abbas, King’s college London 2019.04
 -	One-day Flow cytometry training course, King’s college London, 2019.05 
 -	One-day training course on FACS data analysis by FlowJo, 2019.06
