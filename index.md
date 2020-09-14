@@ -131,6 +131,8 @@ _Research Assistant_<br>
  
  
 ## Training Experiences
+- [Basic bioinfromatics tutorial by Lu Lab, Tsinghua University 2020.09]-(https://lulab2.gitbook.io/teaching/)
+- [Python course by Shiyanlou 2020.08]-(https://www.lanqiao.cn/paths/1/)
 -	Online Python courses by Datacamp 2019.04-
 -	One-day Immunology Course by Professor Abul Abbas, King’s college London 2019.04
 -	One-day Flow cytometry training course, King’s college London, 2019.05 
