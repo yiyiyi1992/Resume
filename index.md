@@ -75,7 +75,7 @@ Nanjing, China
 
 ### **Taams's Lab, Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2019.04 - 2020.04`
 
-_Research assistant_<br>
+_PhD student_<br>
   Research Topic: Investigating the functional consequences and molecular basis of monocyte modulation mediated by T regulatory cells
 -	Designed the experiments to reveal the modulation of Treg mediated-monocyte phenotype by low-dose IL-2 treatment
 -	Performed antibody titration experiments and detected the activity of hr IL-2 with pSTAT5 staining and T cell proliferation assay 
