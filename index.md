@@ -7,7 +7,7 @@ email:
 ---
 
 # Yang Yi
-  Tel: +44 07419842575; Email: yiyangkcl1992@gmail.com
+  Email: yiyangkcl1992@gmail.com
 
 ## Research interests
  In general, my research interests are the following:
@@ -72,6 +72,8 @@ Nanjing, China
 
 
 ## Research Experience
+### **Institute of cancer research, Shenzhen Bay laboratoty, China**  `2020.10-`
+_Research assistant_<br>
 
 ### **Taams's Lab, Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2019.04 - 2020.04`
 
