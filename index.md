@@ -110,12 +110,12 @@ _Research Assistant_<br>
 
 ## Skills & Techniques
 
--	*Languages*: Mandarin Chinese (Native); English (Proficient; IELTS-7.5,GRE-325); Japanese (Elementary)<br>
+-	*Languages*: Mandarin Chinese (Native); English (Proficient; IELTS-7.5,GRE-322); Japanese (Elementary)<br>
 -	*Laboratory Techniques*: 
 -	*Chemistry*: NMR Spectroscopy; High-performance Gel-permeation Chromatography
 -	*Biology*: PBMC isolation; Cell sorting; Cell Culture; RT-PCR; Western Blot; Flow Cytometry; Confocal Microscopy; siRNA Transfection; Animal Handling & Testing (for mice & rat)
 -	*Computer Softwares*: Image J, FlowJo (Skilled), Auto CAD, MS Office (Proficient); Photoshop, GraphPad Prism (Skilled); Python, Github
--	*Bioinformatics*: IPA, DAVID
+-	*Bioinformatics*: IPA
 
 
 ## Mentoring
