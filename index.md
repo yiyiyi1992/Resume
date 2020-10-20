@@ -1,10 +1,3 @@
----
-layout: cv
-title: Yi Yang
-email:
-  text: yiyangkcl1992@gmail.com
-
----
 
 # Yang Yi
   Email: yiyangkcl1992@gmail.com
@@ -84,7 +77,7 @@ _PhD student_<br>
 -	Isolated Tregs through cell sorting and performed co-culture of monocytes with Tregs 
 -	Applied flow cytometry to observe the phenotypic changes and ELISA to detect cytokine production in Treg-mediated monocytes with or without IL-2 stimulation
 -	Generated histogram and density plots to analyse FACS data using FlowJo
--	Performed pathway analysis software, DAVID and IPA, to analyse the RNAseq dataset of Treg-mediated monocytes; selected pathways and target genes 
+-	Performed pathway analysis software, IPA, to analyse the RNAseq dataset of Treg-mediated monocytes; selected pathways and target genes 
 
 ### **Yu's Lab, Department of Pharmacy & Medicine, Ocean University of China** `2015.9 - 2018.8`
 
