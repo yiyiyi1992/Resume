@@ -58,10 +58,10 @@ Nanjing, China
 ## Research Experience
 ### [** Yu's Lab, Institute of cancer research, Shenzhen Bay laboratoty, China**](https://www.szbl.ac.cn/index_en.aspx)  `2020.10-`
 _Research assistant_<br>
-
+My project researches the biological history of CAR-T Cells using a CRISPR recorder in order to combat CAR-T cell dysfunction.
 ### **Taam's Lab, Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2019.04 - 2020.04`
 
-_Research assistant_<br>
+_PhD student_<br>
   Research Topic: Investigating the functional consequences and molecular basis of monocyte modulation mediated by T regulatory cells
 -	Designed the experiments to reveal the modulation of Treg mediated-monocyte phenotype by low-dose IL-2 treatment
 -	Performed antibody titration experiments and detected the activity of hr IL-2 with pSTAT5 staining and T cell proliferation assay 
@@ -94,7 +94,7 @@ _Research Assistant_<br>
 
 ## Skills & Techniques
 
--	*Languages*: Mandarin Chinese (Native); English (Proficient; IELTS-7.5,GRE-322); Japanese (Elementary)<br>
+-	*Languages*: Mandarin Chinese (Native); English (Proficient; IELTS-7.5); Japanese (Elementary)<br>
 -	*Laboratory Techniques*: 
 -	*Chemistry*: NMR Spectroscopy; High-performance Gel-permeation Chromatography
 -	*Biology*: PBMC isolation; Cell sorting; Cell Culture; RT-PCR; Western Blot; Flow Cytometry; Confocal Microscopy; siRNA Transfection; Animal Handling & Testing (for mice & rat)
