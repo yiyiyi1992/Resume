@@ -56,13 +56,13 @@ Nanjing, China
 
 
 ## Research Experience
-### [** Yu's Lab, Institute of cancer research, Shenzhen Bay laboratoty, China**](https://www.szbl.ac.cn/index_en.aspx)  `2020.11-`
+### [**Yu's Lab, Institute of cancer research, Shenzhen Bay laboratoty, China**](https://www.szbl.ac.cn/index_en.aspx)  `2020.11-`
 _Research assistant_<br>
 My project researches the biological history of CAR-T Cells using a CRISPR recorder in order to combat CAR-T cell dysfunction.<br>
- Primer design<br>
- Plasmid construction, transformation and purification<br>
- Lentiviral packaging using HEK293T cells<br>
- DNA electrophoresis<br>
+- Primer design<br>
+- Plasmid construction, transformation and purification<br>
+- Lentiviral packaging using HEK293T cells<br>
+- DNA electrophoresis<br>
 ### **Taam's Lab, Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2019.04 - 2020.04`
 
 _PhD student_<br>
