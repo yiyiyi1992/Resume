@@ -56,9 +56,13 @@ Nanjing, China
 
 
 ## Research Experience
-### [** Yu's Lab, Institute of cancer research, Shenzhen Bay laboratoty, China**](https://www.szbl.ac.cn/index_en.aspx)  `2020.10-`
+### [** Yu's Lab, Institute of cancer research, Shenzhen Bay laboratoty, China**](https://www.szbl.ac.cn/index_en.aspx)  `2020.11-`
 _Research assistant_<br>
-My project researches the biological history of CAR-T Cells using a CRISPR recorder in order to combat CAR-T cell dysfunction.
+My project researches the biological history of CAR-T Cells using a CRISPR recorder in order to combat CAR-T cell dysfunction.<br>
+ Primer design<br>
+ Plasmid construction, transformation and purification<br>
+ Lentiviral packaging using HEK293T cells<br>
+ DNA electrophoresis<br>
 ### **Taam's Lab, Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2019.04 - 2020.04`
 
 _PhD student_<br>
@@ -94,13 +98,11 @@ _Research Assistant_<br>
 
 ## Skills & Techniques
 
--	*Languages*: Mandarin Chinese (Native); English (Proficient; IELTS-7.5); Japanese (Elementary)<br>
+-	*Languages*: Mandarin Chinese (Native); English (Proficient; IELTS-7.5;GRE); Japanese (Elementary)<br>
 -	*Laboratory Techniques*: 
 -	*Chemistry*: NMR Spectroscopy; High-performance Gel-permeation Chromatography
 -	*Biology*: PBMC isolation; Cell sorting; Cell Culture; RT-PCR; Western Blot; Flow Cytometry; Confocal Microscopy; siRNA Transfection; Animal Handling & Testing (for mice & rat)
--	*Computer Softwares*: Image J, FlowJo (Skilled), Auto CAD, MS Office (Proficient); Photoshop, GraphPad Prism (Skilled); Python, Github
--	*Bioinformatics*: IPA
-
+-	*Computer Softwares and programming*: Image J; FlowJo (Skilled); MS Office (Proficient); SnapGene (for Plasmid Maps and Sequences); GraphPad Prism (Skilled); Python, Linux 
 
 ## Mentoring
   
@@ -117,16 +119,14 @@ _Research Assistant_<br>
  
  
 ## Training Experiences
-- [Basic bioinfromatics tutorial by Lu Lab, Tsinghua University, 2020.09-](https://lulab2.gitbook.io/teaching/)<br>
 - [Python course by Shiyanlou, 2020.08-](https://www.lanqiao.cn/paths/1/)
--	Online Python courses by Datacamp 2019.04-
+- [Shells in Linux by Datacamp, 2021.01](https://www.datacamp.com/statement-of-accomplishment/course/9283bc7cd3e736e06d1760869a29e09072faae4c)
 -	One-day Immunology Course by Professor Abul Abbas, King’s college London 2019.04
 -	One-day Flow cytometry training course, King’s college London, 2019.05 
 -	One-day training course on FACS data analysis by FlowJo, 2019.06
 -	One-week training course for home office animal license, King’s college London, 2019.01
 - Science summer camp for perspective PhD students, City University of Hong Kong, 4th July-12th July 2017.07
 -	Coursera courses on Genomic Technologies by John Hopkins University <br>
-
 
 ---
 
