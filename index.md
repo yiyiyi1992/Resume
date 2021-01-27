@@ -63,7 +63,7 @@ My project researches the biological history of CAR-T Cells using a CRISPR recor
 - Plasmid construction, transformation and purification<br>
 - Lentiviral packaging using HEK293T cells<br>
 - DNA electrophoresis<br>
-### **Taam's Lab, Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2019.04 - 2020.04`
+### **Taam's Lab, Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2018.10 - 2020.04`
 
 _PhD student_<br>
   Research Topic: Investigating the functional consequences and molecular basis of monocyte modulation mediated by T regulatory cells
