@@ -63,7 +63,7 @@ My project researches the biological history of CAR-T Cells using a CRISPR recor
 - Plasmid construction, transformation and purification<br>
 - Lentiviral packaging using HEK293T cells<br>
 - DNA electrophoresis<br>
-### **Taam's Lab, Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2018.10 - 2020.04`
+### **Centre for Inflammation Biology & Cancer Immunology, King’s College London** `2018.10 - 2020.04`
 
 _PhD student_<br>
   Research Topic: Investigating the functional consequences and molecular basis of monocyte modulation mediated by T regulatory cells
@@ -83,7 +83,7 @@ _Master student_<br>
 -	Studied the anti-tumor effects of BG136 on MCF-7 breast cancer tumor-bearing nude mice; the anti-tumor effects were measured by tumor volume, tumor weight, splenic index and peripheral CD4/CD8 ratio of tumor-bearing mice.
 
 
-### **Zhu's Lab, Jiangsu Research Institute for Chinese Medicine** `2014.9 - 2015.6`
+### **Jiangsu Research Institute for Chinese Medicine** `2014.9 - 2015.6`
 
 _Research Assistant_<br>
 -	Investigated the anti-inflammation effects of Nauclea Officinalis extract on macrophages
